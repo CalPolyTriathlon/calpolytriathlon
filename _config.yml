@@ -16,6 +16,5 @@ social_links:
   instagram:  cptri
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Officers
+permalink: /officers/
+---
+<div class="row">
+    {%- for officer in site.data.officers -%}
+        {% include bio-card.html person=officer %}
+    {%- endfor -%}
+</div>
+
+
+<h1>Coaches</h1>
+<div class="row">
+    {%- for coach in site.data.coaches -%}
+        {% include bio-card.html person=coach %}
+    {%- endfor -%}
+</div>

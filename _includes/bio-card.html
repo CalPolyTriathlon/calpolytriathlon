@@ -1,0 +1,15 @@
+<div style="width: 18rem;">
+    <div class="card m-2">
+        <img src="{{ site.baseurl }}/assets/img/bios/{{ include.person.photo }}" class="card-img-top" style="height: 18rem; object-fit: cover; ">
+        <div class="card-header">
+            <h5 class="card-title">{{ include.person.name }}</h5>
+            <h6 class="card-subtitle text-muted">{{ include.person.role }}</h6>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <strong>Hometown:</strong> {{ include.person.hometown }} <br/>
+                <strong>Fun Fact:</strong> {{ include.person.fact }}
+            </li>
+          </ul>
+    </div>
+</div>

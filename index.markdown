@@ -11,6 +11,9 @@ carousel:
       action: Sign Up
 
     - title: Register
+      text: >
+        Interested in joining the team?<br/>
+        You're just a few forms away from membership in our prestigious organization
       image: IMG_1335.jpg
       action: Read More
       link: /join

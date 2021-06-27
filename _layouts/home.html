@@ -20,7 +20,7 @@ layout: default
           <div class="carousel-caption text-end">
             <h1>{{ slide.title }}</h1>
             <p>{{ slide.text }}</p>
-            <p><a class="btn btn-lg btn-primary" href="{{ site.baseurl }}{{ slide.link | default: "#" }}">{{ slide.action }}</a></p>
+            <p><a class="btn btn-lg btn-warning" href="{{ site.baseurl }}{{ slide.link | default: "#" }}">{{ slide.action }}</a></p>
           </div>
         </div>
       </div>
@@ -34,7 +34,10 @@ layout: default
   <div class="row">
 
     <div class="col">
-      <img src="{{ site.baseurl }}/assets/img/{{ page.team-photo }}" width="600" />
+      <figure>
+        <img src="{{ site.baseurl }}/assets/img/{{ page.team-photo }}" width="600" />
+        <figcaption>Tour De Donut 2021 Team Photo</figcaption>
+      </figure>
     </div>
     <div class="col">
       {{ content }}

@@ -7,6 +7,8 @@ carousel:
       link: /calendar
 
     - title: Alumni Mailing List
+      text: >
+        Sign up and we'll send you emails... Maybe?
       image: IMG_2599.jpg
       action: Sign Up
 

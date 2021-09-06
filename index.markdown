@@ -23,7 +23,7 @@ carousel:
 team-photo: IMG_1031.jpg
 ---
 
-The Cal Poly Triathlon Team is the largest club sport on campus, appealing to any level of athlete. Whether you consider yourself a veteran swim-bike-runner, or are just joining to complete your first triathlon, we welcome you to our family with open arms, bikes, and shoes!
+The Cal Poly Triathlon Team is a club sport on campus, appealing to any level of athlete. Whether you consider yourself a veteran swim-bike-runner, or are just joining to complete your first triathlon, we welcome you to our family with open arms, bikes, and shoes!
 
 Our team mission is: _​to make the sport of triathlon accessible and affordable for all collegiate athletes, while promoting a competitive and fun atmosphere to help members achieve their athletic goals_
 

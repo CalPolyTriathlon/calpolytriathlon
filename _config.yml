@@ -8,7 +8,7 @@ description: >-
   Triathlon Team. We are a club sports team that aims to make tri fun and
   accessible for students with all levels of ability and commitment.
 
-baseurl: "/calpolytriathlon" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 social_links:

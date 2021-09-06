@@ -28,3 +28,4 @@ San Luis Obispo, CA 93407-0675
 ## Have questions?
 
 [Email our alumni chair](mailto:alumnirelations@calpolytriathlon.com?subject=Alumni%20Donation) with any other questions you may have.
+.

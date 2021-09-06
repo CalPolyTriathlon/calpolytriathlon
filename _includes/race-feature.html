@@ -1,15 +1,13 @@
 <hr class="featurette-divider">
-<div class="row featurette">
-    <div class="col-md-7">
+<div class="row featurette my-2">
+    <div class="col-md-8">
       <h2 class="featurette-heading">{{ include.name }}</h2>
       <p class="lead">
-          Prepare your stomach for the sweetest race of the year: the Tour de Donut.
-          Eat as many donuts as you can and use your sugar-rush as fuel as you race to the top of Prefumo Canyon. <br/>
-          <strong>Victory has never tasted so sweet...</strong>
+        {{ include.text }}
        </p>
        <a class="btn btn-lg btn-dark" href="{{ include.link }}">Visit Site</a>
     </div>
     <div class="col-md-5">
-        <img src="{{ site.baseurl }}/assets/img/{{ include.image }}" width="250" height="250" style="object-fit: cover; background-color: lightpink;" />
+        <img src="{{ site.baseurl }}/assets/img/{{ include.image }}" width="250" height="250" style="object-fit: cover; background-color: lightgrey;" />
     </div>
 </div>

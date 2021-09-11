@@ -32,4 +32,3 @@ The San Luis Obispo community is well suited for all types of triathletes. With 
 While none of our [practices](/calendar/) are mandatory, they are all strongly encouraged. Attending workouts is not only a great way to become acquainted with all of the student coaches and hone your skills, but also a great way to meet other triathletes on the team!
 
 We have meetings every Thursday starting at 11:00am in building 26, room 103. Stop by to see what we’re about, or feel free to contact any of the officers or coaches with any questions you might have!
-

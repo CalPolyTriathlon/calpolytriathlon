@@ -14,21 +14,23 @@ The first step in joining our team is filling out the New Member interest survey
 
 ## Step 2: Show up!
 
-We would love to see you at one of our team events! It is not important if you cannot make any of the weekly practices, but attending one of these or a team meeting lets us put a face to a name, and makes the entire club experience more engaging and rewarding.
+We would love to see you at one of our team events! It is not important if you cannot make any of the weekly practices, but attending one of these or a team meeting lets us put a face to a name, and makes the entire club experience more engaging and rewarding. [All our practices and meetings can be found on our calendar](/calendar).
 
-Additionally, after a new member starts attending practice we give you two weeks to decide if our team is for you before requiring dues or a formal team registration.
+After you start attending practice we give you two weeks to decide if our team is for you before requiring dues or a formal team registration.
 
 ## Step 3: Official Registration
 
-Official team registration takes only a few minutes at Explore - Cal Poly Now
+Official team registration takes only a few minutes on __Cal Poly Now__. Once you've decided to join, you can register for the team here:
 
-Firstly, you will need to log in to the Cal Poly Now webpage using your Cal Poly email address and username. The next step is to click the section “Organizations” in the webpage header, as seen below.
+<div class="flex mb-2">
+    <a class="btn btn-dark" href="https://now.calpoly.edu/engage/organization/triathlon">Join The Roster</a>
+    <a class="btn btn-dark" href="https://now.calpoly.edu/engage/forms?query=Participation">Participation Agreement</a>
+</div>
 
-Next, search “triathlon” in the organization search bar and click the Cal Poly Triathlon Team.
+_Make sure you fill out both the Participation Agreement and join the roster!_
 
-When you have done this, you will see an option under the club name to join the organization (in this picture it is “Member Since March 2021”). Click this option.
+Once both these forms are completed, you are an official rostered CP Tri member that can attend all of our events, including travel, practices, and races.
 
-After joining the organization, you will need to click the “Forms” tab in the Cal Poly Now header. This will take you to a list of organization forms that you can fill out. In the “Search Available Forms” bar, search for “Club Sports Participation Agreement 2021-22” and fill out the form, listing the organization you are filling the form on behalf of as the Triathlon team.
+### Team Dues
 
-After you fill the form, you can see your completed forms by selecting the “View Submissions” button. It may take a day or so for the form to be approved, but eventually it will display “Approved” like the one below. At this point, you are an official rostered CP Tri member that can attend all of our events, including travel practices and races.
-The final step will be paying dues, but we will contact you as you become rostered as to the amount and timeline on which dues are required.
+The final step will be paying __dues__, but we will contact you as you become rostered as to the amount and timeline on which dues are required.

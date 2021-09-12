@@ -18,3 +18,8 @@ social_links:
 # Build settings
 plugins:
   - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - assets/img/full-size/*

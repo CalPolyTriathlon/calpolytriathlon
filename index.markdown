@@ -11,6 +11,7 @@ carousel:
         Sign up and we'll send you emails... Maybe?
       image: IMG_2599.jpg
       action: Sign Up
+      link: https://forms.gle/y7Kd6KfqQdFysGnU7
 
     - title: Register
       text: >

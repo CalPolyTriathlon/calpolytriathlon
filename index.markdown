@@ -24,12 +24,12 @@ carousel:
 team-photo: IMG_1031.jpg
 ---
 
-The Cal Poly Triathlon Team is a club sport on campus, appealing to any level of athlete. Whether you consider yourself a veteran swim-bike-runner, or are just joining to complete your first triathlon, we welcome you to our family with open arms, bikes, and shoes!
+The Cal Poly Triathlon Team is a club sport on campus that encompasses swimming, running and biking, appealing to any experience level.
 
-Our team mission is: _​to make the sport of triathlon accessible and affordable for all collegiate athletes, while promoting a competitive and fun atmosphere to help members achieve their athletic goals_
+Whether beginner or expert, you are welcome here! We are one of the biggest and best teams in the nation and compete at an elite level annually in the West Coast Collegiate Triathlon Conference.
 
-The San Luis Obispo community is well suited for all types of triathletes. With the help of some amazing sponsorships and coaches, we are one of the biggest and best teams in the nation. We compete with elite schools in the West Coast Collegiate Triathlon Conference, and proudly uphold our tradition of being a hard team to beat.
+We hold practices for each sport and host fun events and excursions. Joining the team is a great way to meet friends and explore the area. With access to stunning open roads, beaches and running trails, San Luis Obispo is a wonderful place to train and enjoy nature.
 
-While none of our [practices](/calendar/) are mandatory, they are all strongly encouraged. Attending workouts is not only a great way to become acquainted with all of the student coaches and hone your skills, but also a great way to meet other triathletes on the team!
+While none of our [practices](/calendar/) are mandatory, they are strongly encouraged. Attending workouts is not only a great way to hone your skills with our coaches, but also a great way to meet other triathletes on the team!
 
-We have meetings every Thursday starting at 11:00am in building 26, room 103. Stop by to see what we’re about, or feel free to contact any of the officers or coaches with any questions you might have!
+We have meetings every __Thursday starting at 11:00am in building 52, room E27__. Stop by to see what we’re about, or feel free to contact any of the officers or coaches with any questions you might have!

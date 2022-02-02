@@ -2,14 +2,14 @@
 layout: home
 carousel:
     - title: Calendar
-      image: MAX.JPEG
+      image: DSCF5032.jpg
       action: View
       link: /calendar
 
     - title: Alumni Mailing List
       text: >
         Sign up and we'll send you emails... Maybe?
-      image: IMG_2599.jpg
+      image: IMG_1956.jpg
       action: Sign Up
       link: https://forms.gle/y7Kd6KfqQdFysGnU7
 
@@ -17,12 +17,21 @@ carousel:
       text: >
         Interested in joining the team?<br/>
         You're just a few forms away from membership in our prestigious organization
-      image: IMG_1335.jpg
+      image: IMG_0961.jpg
       action: Read More
       link: /join
 
-team-photo: IMG_1031.jpg
+team-photo: DSCF4478.jpg
 ---
+
+
+<div class="alert alert-success" role="alert">
+  <h4 class="alert-heading">National Championship Fundraising</h4>
+  <p>
+  We are excited to send our top 16 most devoted athletes to Lake Lanier, Georgia to compete in the USAT Collegiate National Championships this April. Our athletes have invested substantial amounts of time and money into training for triathlon, so our goal with this fundraiser is to help lower the costs of competing at a national championship in an already expensive sport.
+  </p>
+ <a type="button" class="btn btn-success" href="https://crowdfund.calpoly.edu/project/30306">Donate!</a>
+</div>
 
 The Cal Poly Triathlon Team is a club sport on campus that encompasses swimming, running and biking, appealing to any experience level.
 

@@ -17,7 +17,12 @@
       {%- endif %}
       </div>
       <div class="col-sm">
-        <p>{{ site.description | escape }}</p>
+        <p>
+          <!-- A little SEO for my personal website -->
+        <a class="text-muted text-decoration-none" href="https://alex-maclean.com">
+          {{ site.description | escape }}
+        </a>
+        </p>
       </div>
     </div>
   </div>

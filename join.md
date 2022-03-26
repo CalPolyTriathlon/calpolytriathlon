@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: split
 title: Join
 permalink: /join/
 ---
+
 
 ## Step 1: Joining our email list
 

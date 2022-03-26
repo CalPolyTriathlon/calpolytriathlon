@@ -2,6 +2,8 @@
 layout: home
 carousel:
     - title: Calendar
+      text: >
+        You know how you get to Carnegie Hall? Practice.
       image: DSCF5032.jpg
       action: View
       link: /calendar
@@ -23,15 +25,6 @@ carousel:
 
 team-photo: DSCF4478.jpg
 ---
-
-
-<div class="alert alert-success" role="alert">
-  <h4 class="alert-heading">National Championship Fundraising</h4>
-  <p>
-  We are excited to send our top 16 most devoted athletes to Lake Lanier, Georgia to compete in the USAT Collegiate National Championships this April. Our athletes have invested substantial amounts of time and money into training for triathlon, so our goal with this fundraiser is to help lower the costs of competing at a national championship in an already expensive sport.
-  </p>
- <a type="button" class="btn btn-success" href="https://crowdfund.calpoly.edu/project/30306">Donate!</a>
-</div>
 
 The Cal Poly Triathlon Team is a club sport on campus that encompasses swimming, running and biking, appealing to any experience level.
 

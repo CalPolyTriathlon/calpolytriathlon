@@ -15,4 +15,4 @@ permalink: /donate/
 
 ## Have questions?
 
-[Email our alumni chair](mailto:alumnirelations@calpolytriathlon.com?subject=Alumni%20Donation) with any other questions you may have.
+<!-- [Email our alumni chair](mailto:alumnirelations@calpolytriathlon.com?subject=Alumni%20Donation) with any other questions you may have. -->

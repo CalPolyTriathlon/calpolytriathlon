@@ -32,6 +32,6 @@ _Make sure you fill out both the Participation Agreement and join the roster!_
 
 The final step will be paying team dues. Dues pay for things like food at events, pool times, team shirts, and our pro-coach. Annual dues are $125.
 
-Dues can be payed by either check or cash to the president, treasurer, or vice president.
+Dues can be payed by either cash or check to the president, treasurer, or vice president.
 
 Once both these forms are completed and you've payed dues, you are an official rostered CP Tri member and are welcome to attend all of our events, including travel, practices, and races. In addition, you'll be added to the team email list and slack channel.

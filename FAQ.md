@@ -1,5 +1,5 @@
 ---
-layout: split
+layout: split2
 title: FAQ
 permalink: /FAQ/
 ---

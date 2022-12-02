@@ -23,7 +23,7 @@ carousel:
       action: Read More
       link: /join
 
-team-photo: DSCF4478.jpg
+team-photo: TeamPhoto2023.jpg
 ---
 
 The Cal Poly Triathlon Team is a club sport on campus that encompasses swimming, running and biking, appealing to any experience level.

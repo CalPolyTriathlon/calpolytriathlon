@@ -5,7 +5,7 @@ permalink: /join/
 ---
 
 
-## Step 1: Joining our email list
+## Step 1: Joining Our Email List
 
 The first step in joining our team is filling out the New Member interest survey. This will allow us to contact you regarding team meetings, events, and practice updates.
 

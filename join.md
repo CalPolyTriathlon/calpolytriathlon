@@ -9,7 +9,7 @@ permalink: /join/
 
 The first step in joining our team is filling out the New Member interest survey. This will allow us to contact you regarding team meetings, events, and practice updates.
 
-<a class="btn btn-dark" href="https://forms.gle/erKYAEyP6UgGgPcA6">New Member Interest Survey</a>
+<a class="btn btn-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSdWK07YdoBeKxVWxPREiTNBAq7ytfPYnoomD544SXGF2U94_w/viewform">New Member Interest Survey</a>
 
 ## Step 2: Show up!
 

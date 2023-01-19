@@ -34,4 +34,4 @@ We hold practices for each sport and host fun events and excursions. Joining the
 
 While none of our [practices](/calendar/) are mandatory, they are strongly encouraged. Attending workouts is not only a great way to hone your skills with our coaches, but also a great way to meet other triathletes on the team!
 
-We have meetings every __Thursday starting at 11:00am in building 52, room E27__. Stop by to see what we’re about, or feel free to contact any of the officers or coaches with any questions you might have!
+We have meetings every __Thursday starting at 11:00am in 026-0104__. Stop by to see what we’re about, or feel free to contact any of the officers or coaches with any questions you might have!

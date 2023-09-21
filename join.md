@@ -30,7 +30,7 @@ _Make sure you fill out both the Participation Agreement and join the roster!_
 
 #### Team Dues
 
-The final step will be paying team dues. Dues pay for things like food at events, pool times, team shirts, and our pro-coach. Annual dues are $125.
+The final step will be paying team dues. Dues pay for things like food at events, pool times, team shirts, and our pro-coach. Annual dues are $135.
 
 Dues can be payed by either cash or check to the president, treasurer, or vice president.
 
